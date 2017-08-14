@@ -78,3 +78,5 @@ pyasn1==0.1.9
 pycparser==2.14
 six==1.9.0
 
+# Open edX context additions
+gunicorn==0.17.4
